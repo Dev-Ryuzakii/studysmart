@@ -491,7 +491,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>© 2024 SmartStudy. All rights reserved.</p>
+            <p>© 2025 SmartStudy. All rights reserved.</p>
           </div>
         </div>
       </footer>
